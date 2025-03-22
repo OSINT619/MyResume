@@ -1,0 +1,23 @@
+{
+  "name": "Patrick Dunn",
+  "social": {
+    "github": "PatrickDunn",
+    "linkedin": "patrick-dunn",
+    "email": "Thecryptowallethunter@gmail.com"
+  },
+  "ps1_hostname": "crypto-analyst",
+  "ps1_username": "visitor",
+  "resume_url": "",
+  "colors": {
+    "light": {
+      "background": "#1E1E1E",
+      "foreground": "#FFFFFF",
+      "yellow": "#F9E2AF",
+      "green": "#A6E3A1",
+      "gray": "#6C7086",
+      "blue": "#89B4FA",
+      "red": "#F38BA8"
+    }
+  }
+}
+
